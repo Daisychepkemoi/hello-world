@@ -8,8 +8,8 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <label for="mobile"><b>Enter Phone Number</b></label>
+    <input type="text" placeholder="Enter phone number" name="mobile" id="mobile" required>
     <%-- <br>
 
     <label for="email"><b>Enter Email</b></label>
@@ -28,7 +28,7 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p>Already have an account? <a href="#">Submit</a>.</p>
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
