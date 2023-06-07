@@ -16,8 +16,8 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required> --%>
      <br> 
 
-    <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <label for="psw"><b>Passwords</b></label>
+    <input type="password" placeholder="Enter Passwords" name="psw" id="psw" required>
     <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Submit</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou, Happy Learning to you ! </h1>
 
   
 </form>
